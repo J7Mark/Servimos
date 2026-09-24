@@ -10,7 +10,7 @@ Servimos is a community-driven platform for sharing needs in products, services,
 
 **Community Members** — Anyone with an opinion. Join communities you care about, vote on ideas, and share feedback on what you currently use and what problems you face.
 
-**Entrepreneurs** — Founders and creators looking to understand real demand. Post a need, collect votes, and let the platform turn scattered feedback into structured market intelligence. Connect with other entrepreneurs interested in the same post.
+**Entrepreneurs** — Founders and creators looking to understand real demand. Post a need, collect votes, and let the platform turn scattered feedback into structured market intelligence.
 
 ---
 
